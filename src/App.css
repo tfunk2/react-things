@@ -28,3 +28,9 @@
 .card img {
   max-width: 100%;
 }
+
+.favorites ul {
+  display: flex;
+  background-color: orangered;
+  justify-content: space-evenly;
+}
